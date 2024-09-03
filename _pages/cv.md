@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my CV (Last Updated Sep.2, 2024)]({{base_path}}/files/ChengYi_CV.pdf)
+<!-- [Download my CV (Last Updated Sep.2, 2024)]({{base_path}}/files/ChengYi_CV.pdf) -->
