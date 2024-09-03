@@ -25,7 +25,7 @@ See [Google Scholar](https://scholar.google.com/citations?user=rChf7L4AAAAJ) for
 
 **2024**
 * **Cheng-Yi Lee**, Cheng-Chang Tsai, Chia-Mu Yu, Chun-Shien Lu, “Exploring Robustness of Visual State Space model against Backdoor Attacks,” arXiv, August, 2024. <a href="https://arxiv.org/abs/2408.11679"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
-* **Cheng-Yi Lee**, Zi-Yuan Liu, Masahiro Mambo, Raylin Tso, “Privacy-enhanced Data Sharing Systems from Hierarchical ID-based Puncturable Functional Encryption with Inner Product Predicates,” IET Information Security, September, 2024. <a href="https://github.com/chengyi-chris/HIBP-IPFE"><i class="fas fa-fw fa-github zoom" aria-hidden="true"></i></a>
+* **Cheng-Yi Lee**, Zi-Yuan Liu, Masahiro Mambo, Raylin Tso, “Privacy-enhanced Data Sharing Systems from Hierarchical ID-based Puncturable Functional Encryption with Inner Product Predicates,” IET Information Security, September, 2024. <a href="https://github.com/chengyi-chris/HIBP-IPFE"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
 * Ching-Chia Kao, **Cheng-Yi Lee**, Chun-Shien Lu, Chia-Mu Yu, Chu-Song Chen, “On The Higher Moment Disparity of Backdoor Attacks,” IEEE Conference on Multimedia Expo (ICME), 2024. **[Oral]**
 * **Cheng-Yi Lee**, Cheng-Chang Tsai, Ching-Chia Kao, Chun-Shien Lu, Chia-Mu Yu, “Defending against Clean-Image Backdoor Attack in Multi-Label Classification,” IEEE International Conference on Acoustics, Speech and Signal Pro- cessing (ICASSP), 2024. **[Oral]**  <a href="https://ieeexplore.ieee.org/abstract/document/10447895/"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
 
