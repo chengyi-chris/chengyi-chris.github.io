@@ -13,7 +13,6 @@ author_profile: true
   * SIAM International Conference on Data Mining (SDM), 2024 -->
 * **Conference Reviewer**
   * IEEE International Conference on Multimedia and Expo (ICME), 2024
-  <!-- * IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2022-2024 -->
 <!-- * **Journal Reviewer**
 * **Student Volunteer**
   * Conference on Neural Information Processing Systems (NeurIPS), 2023 -->
