@@ -21,11 +21,11 @@ repository               : "chengyi-chris/chengyi-chris.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "avatar.jpg"
   name             : "Cheng-Yi Lee"
   pronouns         : "he/his"  
   bio              : "Research Assistant"
-  location         : "Taipei"
+  location         : "Taipei, Taiwan"
   # employer         : "Academia Sinica"
   uri              : # URL
   email            : "christopherli861224@gmail.com" 
