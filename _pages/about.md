@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 <!-- ## About Me -->
-
-I'm currently pursing Ph.D. position in United Stated. I was a research assistant in the Institution of Information Science at Academia Sinica, supervised by [Dr. Chun-Shien Lu](https://scholar.google.com/citations?user=3iOHvUAAAAAJ&hl){:target="_blank"} and [Dr. Chia-Mu Yu](https://scholar.google.com/citations?user=dW4W4isAAAAJ&hl){:target="_blank"}. I obtained my B.S. degree in Information Management from Chang Gung University in Taoyuan, Taiwan, in 2020, and my double M.S. degree in Computer Science from National ChengChi University in 2023 and Electrical Engineering & Computer Science from Kanazawa University in 2024.
+I'm currently applying for a Ph.D. program. Previously, I served as a research assistant at the Institute of Information Science, Academia Sinica, under the supervision of [Prof. Chun-Shien Lu](https://scholar.google.com/citations?user=3iOHvUAAAAAJ&hl), I was also advised by [Prof. Chia-Mu Yu](https://scholar.google.com/citations?user=dW4W4isAAAAJ&hl) during this time. I obtained a double M.S. degree: one in Computer Science from National Chengchi University, Taiwan, in 2023 (advised by [Prof. Raylin Tso](https://scholar.google.com/citations?user=go8aLaQAAAAJ&hl)), and another in Electrical Engineering & Computer Science from Kanazawa University, Japan, in 2024 (advised by [Prof. Masahiro Mambo](https://iseclab.ec.t.kanazawa-u.ac.jp/en/mambo/index.html)). Additionally, I received my B.S. degree in Information Management at Chang Gung University, Taiwan.
 
 ## Research Interest 
 <!-- ====== -->
@@ -23,9 +22,7 @@ My primary research interests focus on developing <strong>trustworthy and reliab
 I'm currently exploring the following research topics:
 * Robustness of Deep Learning
 * Responsibility of collaborative AI
-* Trustworthy AI + X (Applications): Cybersecurity, Healthcare
-
-<!-- I'm currently working on enhancing the robustness of foundation models and their integration into traditional machine learning systems. -->
+* Trustworthy AI + X (Applications): Cybersecurity
 
 <!-- My research interests include <strong>trustworthy AI</strong> and <strong>adversarial machine learning</strong>, with my Ph.D. thesis specifically focusing on poisoning attacks and defenses against deep neural networks. I'm currently working on enhancing the robustness of foundation models and their integration into traditional machine learning systems. -->
 
@@ -33,11 +30,6 @@ I'm currently exploring the following research topics:
 <!-- > *My Research Journey in Adversarial Machine Learning* -->
 
 <!-- My research vision is centered on developing trustworthy and reliable AI systems, aiming to support the advancement of technology and solve social challenges. I am keen to broaden my research scope to encompass the concept of <strong>responsibility</strong> in machine learning, focusing on areas such as <strong>robustness, fairness, and interpritability</strong>. Recently, I'm exploring the following research topics: -->
-<!-- * Robustness of large language models -->
-<!-- * Equitable participation and collaborative learning in foundation model integrated machine learning frameworks. -->
-<!-- * Responsibility (such as robustness and fairness) in multi-agent systems (collaborative AI) -->
-<!-- * Trustworthy AI + X (Applications): Cybersecurity, Healthcare -->
-
 
 ## News
 
@@ -46,7 +38,7 @@ I'm currently exploring the following research topics:
   	<li>2024-09-01: Our paper is accepted to WACV 2025: "Defending Against Repetitive Backdoor Attacks on Semi-supervised Learning through Lens of Rate-Distortion-Perception Trade-off".</li>
     <li>2024-04-12: Our paper is accepted to ICME 2024 <strong>[Oral]</strong>: "On The Higher Moment Disparity of Backdoor Attacks".</li>
     <li>2024-03-20: I obtain my M.S. Degree in Electrical Engineering & Computer Science from Kanazawa University in 2024.</li>
-    <li>2023-12-14: Our paper is accepted to ICASSP 2024 <strong>[Oral]</strong> : "Defending against Clean-Image Backdoor Attack in Multi-Label Classification".</li>
+    <li>2023-12-14: Our paper is accepted to ICASSP 2024 <strong>[Oral]</strong>: "Defending against Clean-Image Backdoor Attack in Multi-Label Classification".</li>
     <!-- Add more news items here -->
   </ul>
 </div>
