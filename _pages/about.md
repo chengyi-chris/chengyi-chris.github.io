@@ -35,6 +35,7 @@ I'm currently exploring the following research topics:
 
 <div style="height: 300px; overflow-y: scroll;">
   <ul>
+    <li>2025-07-12: Our paper is accepted to ECAI 2025: "BadVim: Unveiling Backdoor Threats in Visual State Space Model".</li>
   	<li>2024-09-01: Our paper is accepted to WACV 2025: "Defending Against Repetitive Backdoor Attacks on Semi-supervised Learning through Lens of Rate-Distortion-Perception Trade-off".</li>
     <li>2024-04-12: Our paper is accepted to ICME 2024 <strong>[Oral]</strong>: "On The Higher Moment Disparity of Backdoor Attacks".</li>
     <li>2024-03-20: I obtain my M.S. Degree in Electrical Engineering & Computer Science from Kanazawa University in 2024.</li>
@@ -48,7 +49,7 @@ I'm currently exploring the following research topics:
     <li>
         <strong>Conference Reviewer</strong>
         <ul>
-            <li>IEEE International Conference on Multimedia and Expo (ICME), 2024</li>
+            <li>IEEE International Conference on Multimedia and Expo (ICME), 2024, 2025</li>
         </ul>
     </li>
 </ul>
