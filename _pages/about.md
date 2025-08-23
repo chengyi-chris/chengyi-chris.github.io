@@ -37,11 +37,15 @@ I'm currently exploring the following research topics:
 
 News
 ======
-- 2025-07-12: Our paper is accepted to ECAI 2025: "BadVim: Unveiling Backdoor Threats in Visual State Space Model".
-- 2024-09-01: Our paper is accepted to WACV 2025: "Defending Against Repetitive Backdoor Attacks on Semi-supervised Learning through Lens of Rate-Distortion-Perception Trade-off".
-- 2024-04-12: Our paper is accepted to ICME 2024 **[Oral]**: "On The Higher Moment Disparity of Backdoor Attacks".
-- 2024-03-20: I obtain my M.S. Degree in Electrical Engineering & Computer Science from Kanazawa University in 2024.
-- 2023-12-14: Our paper is accepted to ICASSP 2024 **[Oral]**: "Defending against Clean-Image Backdoor Attack in Multi-Label Classification".
+
+<div style="height: 300px; overflow-y: scroll; padding-right: 10px; border: 1px solid #ddd;">
+  <ul>
+    <li>2025-07-12: Our paper is accepted to ECAI 2025: "BadVim: Unveiling Backdoor Threats in Visual State Space Model".</li>
+    <li>2024-09-01: Our paper is accepted to WACV 2025: "Defending Against Repetitive Backdoor Attacks on Semi-supervised Learning through Lens of Rate-Distortion-Perception Trade-off".</li>
+    <li>2024-04-12: Our paper is accepted to ICME 2024 <strong>[Oral]</strong>: "On The Higher Moment Disparity of Backdoor Attacks".</li>
+    <li>2024-03-20: I obtained my M.S. Degree in Electrical Engineering & Computer Science from Kanazawa University, Japan.</li>
+  </ul>
+</div>
 
 
 Professional Service
