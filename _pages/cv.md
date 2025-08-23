@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+# title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,14 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+🎓 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in EECS, Kanazawa University, 2024
 * M.S. in CS, National Chengchi University, 2023
 * B.S. in IM, Chang Gung University, 2020
-
-
   
 Work Experience
 ======
@@ -47,27 +44,28 @@ Skills
   - Computer Vision & ML/DL: Image Classification, Vision Transformer, Watermarking
   - Others: Docker, Pytorch, OpenCV, Charm-Crypto, PBC
   
-Publications
+<!-- 📝 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+   -->
+<!-- 💬 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Teaching
+   -->
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+   -->
+
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
 
 Extracurricular Activities
 ======
