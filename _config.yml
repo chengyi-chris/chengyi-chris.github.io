@@ -155,6 +155,8 @@ analytics:
   google:
     tracking_id          : G-5KR3C3RMTW
 
+head_scripts:
+  - /assets/css/custom.css
 
 # Reading Files
 include:
