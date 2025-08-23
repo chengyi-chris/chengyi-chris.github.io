@@ -1,6 +1,7 @@
 /* 去掉所有 Markdown 連結底線 */
-a {
+.page__content a {
   text-decoration: none !important;
+  color: #0066cc;
 }
 
 /* 移除標題底線 */
