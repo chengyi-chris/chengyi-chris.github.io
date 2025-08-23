@@ -12,35 +12,41 @@ redirect_from:
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in EECS, Kanazawa University, 2024
+* M.S. in CS, National Chengchi University, 2023
+* B.S. in IM, Chang Gung University, 2020
 
-Work experience
+
+  
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  - Research Assistant, CITI, Academia Sinica, Taiwan (Jul, 2025 - Present)
+    - Advised by Prof. Jun-Cheng Chen (collab with Chun-Shien Lu)
+    - Copyright Protection on Generative Models
+  
+  - Research Assistant, IIS, Academia Sinica, Taiwan (Apr, 2023 - Jun, 2024)
+    - Advised by Prof. Chun-Shien Lu (collab with Chia-Mu Yu)
+    - Backdoor Attacks & Defense on Deep Learning Models
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  - Research Intern, IIS, Academia Sinica, Taiwan (Jun, 2021 - Jan, 2022)
+    - Advised by Prof. Chun-Shien Lu
+    - Watermarking technique for Deep Learning Models
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  - Data Engineer Intern, Intelligence Finance, E.sun Bank, Taiwan (Feb, 2021 - Jun, 2021)
+    - Design data collection and monitoring by using ELK
+    - Implement features for data portal in our team (Python) 
+  
+Honors and Awards
+======
+  - Dean's List (2020)
+    * Class of 2020, Outstanding Academic Award 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+  - Programming Language: Python, Java, R, C++, Latex
+  - Computer Vision & ML/DL: Image Classification, Vision Transformer, Watermarking
+  - Others: Docker, Pytorch, OpenCV, Charm-Crypto, PBC
+  
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -62,3 +68,22 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+Extracurricular Activities
+======
+  - Calligraphy Club in Chang Gung University (2017-2019)
+    - Social Media Lead, Club Member
+    - Cross-platform Social Media Management
+    - Increase the number of students in our annual exhibition
+
+  - Student Association in Chang Gung University (2016-2017)
+    - Club Member
+    - Hosted celebrity speeches, with more than 900 students participating.
+    - Annual Wind Festival in our college
+
+Volunteer Experience
+======
+  - Community of Java Taiwan User Group (2017-2025)
+    - Photographic Team in Annual Community Conference (JCConf)
+  - Conference for Open Source Coders, Users & Promoters (COSCUP)
+    - Photographic Team in Annual Community Conference (2019, 2021, 2024)
