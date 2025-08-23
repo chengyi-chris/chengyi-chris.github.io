@@ -1,6 +1,6 @@
 ---
 permalink: /
-# title: "About me"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -50,4 +50,4 @@ I'm currently exploring the following research topics:
   
 ### For more info
 ------
-Feel free to reach out at chengyi.lee.1224[AT]gmail.com for potential collaborations or discussions.
+Feel free to reach out at chengyi.lee.1224 [AT] gmail.com for potential collaborations or discussions.

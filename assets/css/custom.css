@@ -1,0 +1,8 @@
+a {
+  text-decoration: none; /* 平常不顯示底線 */
+}
+
+a:hover,
+a:focus {
+  text-decoration: underline;
+}
