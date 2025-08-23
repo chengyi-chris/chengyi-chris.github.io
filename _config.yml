@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "avatar.jpg"
   name             : "Cheng-Yi Lee"
-  pronouns         : "he/his"  
+  # pronouns         : "he/his"  
   bio              : "Research Assistant"
   location         : "Taipei, Taiwan"
   # employer         : "Academia Sinica"
