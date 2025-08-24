@@ -7,14 +7,19 @@ author_profile: true
 
 {% include base_path %}
 
-🎨📚🎮🍳 My Hobbies
-=====
-📷 Photography
+## My Hobbies
 
-📚 Reading
+- 📷 Photography  
+  I love capturing landscapes and candid moments.
 
-🎬 Watching movies and TV series
+- 📚 Reading  
+  Literature, novels, and business books keep me inspired.
 
-🎧 Listening to music and podcasts
+- 🎬 Watching movies and TV series  
+  I enjoy both classic films and new streaming shows, especially Young Adult and arthouse films.
 
-✈️ Travel
+- 🎧 Listening to music and podcasts  
+  Music for focus, podcasts for learning.
+
+- ✈️ Travel  
+  Exploring new cultures and foods around the world.
