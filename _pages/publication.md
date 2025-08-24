@@ -13,7 +13,7 @@ See [Google Scholar](https://scholar.google.com/citations?user=rChf7L4AAAAJ) for
 **2025**
 * **Cheng-Yi Lee**, Yu-Hsuan Chiang, Zhong-You Wu, Chia-Mu Yu, and Chun-Shien Lu, “BadVim: Unveiling Backdoor Threats in Visual State Space Model,” European Conference on Artificial Intelligence (ECAI), 2025. 
 
-* **Cheng-Yi Lee**\*, Ching-Chia Kao\*, Cheng-Han Yeh, Chun-Shien Lu, Chia-Mu Yu, Chu-Song Chen, “Defending Against Repetitive Backdoor Attack on Semi-Supervised Learning through Lens of Rate-Distortion-Perception Trade-off,” IEEE Winter Conference on Applications of Computer Vision (WACV), 2025. <a href="https://arxiv.org/pdf/2407.10180"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
+* **Cheng-Yi Lee**\*, Ching-Chia Kao\*, Cheng-Han Yeh, Chun-Shien Lu, Chia-Mu Yu, Chu-Song Chen, “Defending Against Repetitive Backdoor Attack on Semi-Supervised Learning through Lens of Rate-Distortion-Perception Trade-off,” IEEE Winter Conference on Applications of Computer Vision (WACV), 2025. <a href="https://arxiv.org/pdf/2407.10180"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a><a href="https://github.com/chengyi-chris/UPure"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
 
 ---
 
