@@ -12,7 +12,7 @@ Hi! 👋 I am a research assistant in CITI at Academia Sinica, working with Prof
 
 I obtained two M.Sc. degrees: one in Computer Science from National Chengchi University, Taiwan (advised by Prof. [Raylin Tso](https://scholar.google.com/citations?user=go8aLaQAAAAJ&hl){: .text-link }), and another in Electrical Engineering & Computer Science from Kanazawa University, Japan (advised by Prof. [Masahiro Mambo](https://iseclab.ec.t.kanazawa-u.ac.jp/en/mambo/index.html){: .text-link }). I received my B.Sc. degree in Information Management from Chang Gung University, Taiwan.
 
-<span style="color: #DC143C; font-weight: bold;">I am looking for a Ph.D. position. I will be thrilled if you are interested in my profile. Feel free to contact me by email!</span>。
+<span style="color: #DC143C; font-weight: bold;">I am looking for a Ph.D. position. I will be thrilled if you are interested in my profile. Feel free to contact me by email!</span>
 
 
 ## 🔬 Research Interest
