@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<!-- 📚 Publications -->
+📚 Publications
 ======
 
 See [Google Scholar](https://scholar.google.com/citations?user=rChf7L4AAAAJ) for additional details.

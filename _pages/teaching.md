@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-<!-- 🧑‍🏫 Teaching Assistant -->
+🧑‍🏫 Teaching Assistant
 ======
 
 * **TA, National Chengchi University**
