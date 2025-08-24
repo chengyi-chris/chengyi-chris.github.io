@@ -1,0 +1,19 @@
+/* change css in link text (about me)*/
+.page__content a.text-link {
+  text-decoration: none;     
+  transition: all 0.2s ease;  
+}
+
+.page__content a.text-link:hover {
+  text-decoration: underline; 
+}
+
+/* change css in link text */
+.text-link {
+  text-decoration: none !important;
+  transition: all 0.2s ease;
+}
+
+.text-link:hover {
+  text-decoration: underline !important;
+}
