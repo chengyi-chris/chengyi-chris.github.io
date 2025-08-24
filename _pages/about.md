@@ -8,9 +8,11 @@ redirect_from:
 ---
 
 
-Hi! 👋 I am a research assistant in CITI at Academia Sinica, working with Prof. [Jun-Cheng Chen](https://scholar.google.com/citations?user=3x9KITUAAAAJ&hl=en). Previously, I served as a research assistant at the Institute of Information Science, Academia Sinica, under the supervision of Prof. [Chun-Shien Lu](https://scholar.google.com/citations?user=3iOHvUAAAAAJ&hl) and co-advised by Prof. [Chia-Mu Yu](https://scholar.google.com/citations?user=dW4W4isAAAAJ&hl) during this time. 
+Hi! 👋 I am a research assistant in CITI at Academia Sinica, working with Prof. [Jun-Cheng Chen](https://scholar.google.com/citations?user=3x9KITUAAAAJ&hl=en){: .text-link }. Previously, I served as a research assistant at the Institute of Information Science, Academia Sinica, under the supervision of Prof. [Chun-Shien Lu](https://scholar.google.com/citations?user=3iOHvUAAAAAJ&hl){: .text-link } and co-advised by Prof. [Chia-Mu Yu](https://scholar.google.com/citations?user=dW4W4isAAAAJ&hl){: .text-link } during this time. 
 
-I obtained two M.Sc. degrees: one in Computer Science from National Chengchi University, Taiwan (advised by Prof. [Raylin Tso](https://scholar.google.com/citations?user=go8aLaQAAAAJ&hl)), and another in Electrical Engineering & Computer Science from Kanazawa University, Japan (advised by Prof. [Masahiro Mambo](https://iseclab.ec.t.kanazawa-u.ac.jp/en/mambo/index.html)). I received my B.Sc. degree in Information Management from Chang Gung University, Taiwan.
+I obtained two M.Sc. degrees: one in Computer Science from National Chengchi University, Taiwan (advised by Prof. [Raylin Tso](https://scholar.google.com/citations?user=go8aLaQAAAAJ&hl){: .text-link }), and another in Electrical Engineering & Computer Science from Kanazawa University, Japan (advised by Prof. [Masahiro Mambo](https://iseclab.ec.t.kanazawa-u.ac.jp/en/mambo/index.html){: .text-link }). I received my B.Sc. degree in Information Management from Chang Gung University, Taiwan.
+
+<span style="color: #DC143C; font-weight: bold;">I am looking for a Ph.D. position. I will be thrilled if you are interested in my profile. Feel free to contact me by email!</span>。
 
 
 ## 🔬 Research Interest
