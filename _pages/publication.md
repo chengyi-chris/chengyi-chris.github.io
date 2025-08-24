@@ -5,11 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% include base_path %}
-
 📚 Publications
 ======
-See [Google Scholar](https://scholar.google.com/citations?user=rChf7L4AAAAJ) for additional details.
+
+See [Google Scholar](https://scholar.google.com/citations?user=rChf7L4AAAAJ){: .text-link } for additional details.
 
 `*` denotes equal contribution
 
