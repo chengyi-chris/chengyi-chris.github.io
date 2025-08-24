@@ -5,8 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-🧑‍🏫 Teaching Assistant
-======
+## 🧑‍🏫 Teaching Assistant
 
 * **TA, National Chengchi University**
   * 2021 Spring: Artificial Intelligence and Its Applications to Information Security
