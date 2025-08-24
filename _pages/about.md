@@ -35,7 +35,7 @@ I'm currently exploring the following research topics:
 
 ## 📢 News
 
-<div style="height: 300px; overflow-y: scroll;">
+<div style="height: 150px; overflow-y: scroll;">
   <ul>
     <li>2025-07-12: Our paper is accepted to ECAI 2025: "BadVim: Unveiling Backdoor Threats in Visual State Space Model".</li>
     <li>2024-09-01: Our paper is accepted to WACV 2025: "Defending Against Repetitive Backdoor Attacks on Semi-supervised Learning through Lens of Rate-Distortion-Perception Trade-off".</li>
