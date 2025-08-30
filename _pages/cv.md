@@ -85,3 +85,5 @@ Volunteer Experience
     - Photographic Team in Annual Community Conference (JCConf)
   - Conference for Open Source Coders, Users & Promoters (COSCUP)
     - Photographic Team in Annual Community Conference (2019, 2021, 2024)
+
+[Download my CV]({{ site.baseurl }}/files/ChengYi_CV.pdf){:target="_blank" .text-link}
