@@ -19,25 +19,13 @@ I obtained two M.Sc. degrees: one in Computer Science from National Chengchi Uni
 
 My primary research interests focus on developing **trustworthy and reliable AI systems** to advance technology and address social challenges. I aim to ensure **robustness, privacy, fairness, and interpretability of AI** when applied across various domains.
 
-
-<!-- ![My Research Interest in Trustworthy AI](/images/future_research_overview.jpg) -->
-<!-- > *My Research Interest in Trustworthy AI* -->
-
-I'm currently exploring the following research topics:
-* Robustness of Deep Learning
-* Responsibility of collaborative AI
-* Trustworthy AI + X (Applications): Cybersecurity
-
-<!-- My research interests include <strong>trustworthy AI</strong> and <strong>adversarial machine learning</strong>, with my Ph.D. thesis specifically focusing on poisoning attacks and defenses against deep neural networks. I'm currently working on enhancing the robustness of foundation models and their integration into traditional machine learning systems. -->
-
-<!-- ![My Research Journey in Adversarial Machine Learning](/images/past_work.png) -->
-<!-- > *My Research Journey in Adversarial Machine Learning* -->
-
-<!-- My research vision is centered on developing trustworthy and reliable AI systems, aiming to support the advancement of technology and solve social challenges. I am keen to broaden my research scope to encompass the concept of <strong>responsibility</strong> in machine learning, focusing on areas such as <strong>robustness, fairness, and interpritability</strong>. Recently, I'm exploring the following research topics: -->
+* Generative AI: diffusion models, multimodal models, large language models.
+* Trustworthy AI: adversarial robustness, security, privacy-preserving techniques.
+* Others: copyright protection, robust generalization, safety alignment.
 
 ## 📢 News
 
-<div style="height: 200px; overflow-y: scroll;">
+<div style="height: 150px; overflow-y: scroll;">
   <ul>
     <li>2025-07-12: Our paper is accepted to ECAI 2025: "BadVim: Unveiling Backdoor Threats in Visual State Space Model".</li>
     <li>2024-09-01: Our paper is accepted to WACV 2025: "Defending Against Repetitive Backdoor Attacks on Semi-supervised Learning through Lens of Rate-Distortion-Perception Trade-off".</li>
