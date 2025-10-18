@@ -27,6 +27,7 @@ My primary research interests focus on developing **trustworthy and reliable AI 
 
 <div style="height: 150px; overflow-y: scroll;">
   <ul>
+    <li>2025-10-14: Our paper is accepted to NeurIPS 2025 GenProCC Workshop: "On Forging Semantic Watermarks in Diffusion Models: A Theoretical Perspective".</li>
     <li>2025-07-12: Our paper is accepted to ECAI 2025: "BadVim: Unveiling Backdoor Threats in Visual State Space Model".</li>
     <li>2024-09-01: Our paper is accepted to WACV 2025: "Defending Against Repetitive Backdoor Attacks on Semi-supervised Learning through Lens of Rate-Distortion-Perception Trade-off".</li>
     <li>2024-04-12: Our paper is accepted to ICME 2024 <strong>[Oral]</strong>: "On The Higher Moment Disparity of Backdoor Attacks".</li>
