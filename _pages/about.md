@@ -37,7 +37,7 @@ My primary research interests focus on developing **trustworthy and reliable AI 
 ## 📝 Professional Service 
 - **Conference Reviewer**
   - CVPR (2026)
-  - IEEE ICME (2024, 2025)
+  - IEEE ICME (2024, 2025, 2026)
   - IEEE ICASSP (2026)
   
   
