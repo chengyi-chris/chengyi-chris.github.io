@@ -35,8 +35,8 @@ Work Experience
   
 Honors and Awards
 ======
-  - Dean's List (2020)
-    * Class of 2020, Outstanding Academic Award 
+  - Graduate Student Research Award, National Chengchi University (2022)
+  - Dean's List, Chang Gung University (2020) 
   
 Skills
 ======
