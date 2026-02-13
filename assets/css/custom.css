@@ -1,11 +1,11 @@
 /* change css in link text (about me)*/
 .page__content a.text-link {
-  text-decoration: none;     
-  transition: all 0.2s ease;  
+  text-decoration: none;
+  transition: all 0.2s ease;
 }
 
 .page__content a.text-link:hover {
-  text-decoration: underline; 
+  text-decoration: underline;
 }
 
 /* change css in link text */
@@ -16,4 +16,64 @@
 
 .text-link:hover {
   text-decoration: underline !important;
+}
+
+
+abbr.badge {
+  display: inline-block;
+  padding: 0.1rem 0.45rem;
+  margin-right: 0.35rem;
+  border-radius: 2px;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  line-height: 1.4;
+  vertical-align: baseline;
+  text-transform: uppercase;
+  text-decoration: none;
+  background: rgb(34, 141, 177);
+  color: #fff;
+}
+
+.pub-link {
+  text-decoration: none !important;
+  display: inline-block;
+  padding: 0.1rem 0.45rem;
+  margin-left: 0.5rem;
+  border: 1px solid rgb(34, 141, 177);
+  /* 使用跟 badge 一樣的藍色，但改為邊框 */
+  border-radius: 2px;
+  /* 保持長方形風格 */
+  font-size: 0.72rem;
+  font-weight: 700;
+  color: rgb(34, 141, 177);
+  /* 文字用藍色 */
+  background-color: #ffffff;
+  text-decoration: none;
+  /* 移除底線 */
+  vertical-align: baseline;
+  transition: all 0.2s;
+  /* 增加滑鼠移入的平滑感 */
+}
+
+.pub-link:hover {
+  text-decoration: none !important;
+  background: rgb(34, 141, 177);
+  /* 移入時變實心 */
+  color: #fff;
+  /* 文字變白色 */
+}
+
+/* Compact spacing only for publications page */
+.archive.publications-page h2 {
+  margin: 0.9rem 0 0.35rem;
+}
+
+.archive.publications-page ul {
+  margin: 0 0 0.35rem 1.15rem;
+}
+
+.archive.publications-page li {
+  margin: 0.18rem 0 0.45rem;
+  line-height: 1.4;
 }
