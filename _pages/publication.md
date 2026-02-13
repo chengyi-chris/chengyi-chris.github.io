@@ -35,7 +35,7 @@ See [Google Scholar](https://scholar.google.com/citations?user=rChf7L4AAAAJ){: .
 * <abbr class="badge">IET Sec.</abbr> Privacy-enhanced Data Sharing Systems from Hierarchical ID-based Puncturable Functional Encryption with Inner Product Predicates <a href="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/2024/5535196" class="pub-link"><i class="fas fa-file-pdf" aria-hidden="true"></i> PDF</a><a href="https://github.com/chengyi-chris/HIBP-IPFE" class="pub-link"><i class="fas fa-code" aria-hidden="true"></i> Code</a>
 <br><u>Cheng-Yi Lee</u>, Zi-Yuan Liu, Masahiro Mambo, Raylin Tso
 
-* <abbr class="badge">ICME</abbr> On the Higher Moment Disparity of Backdoor Attacks [Oral] <a href="https://ieeexplore.ieee.org/document/10687873" class="pub-link"><i class="fas fa-file-alt" aria-hidden="true"></i> arXiv</a>
+* <abbr class="badge">ICME</abbr> On the Higher Moment Disparity of Backdoor Attacks [Oral] <a href="https://ieeexplore.ieee.org/document/10687873" class="pub-link"><i class="fas fa-file-pdf" aria-hidden="true"></i> PDF</a>
 <br>Ching-Chia Kao, <u>Cheng-Yi Lee</u>, Chun-Shien Lu, Chia-Mu Yu, Chu-Song Chen
 
 * <abbr class="badge">ICASSP</abbr> Defending against Clean-Image Backdoor Attack in Multi-Label Classification [Oral] <a href="https://ieeexplore.ieee.org/abstract/document/10447895" class="pub-link"><i class="fas fa-file-pdf" aria-hidden="true"></i> PDF</a>
