@@ -1,15 +1,14 @@
 ---
 layout: archive
-# title: "CV"
+title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
+show_title: false
+classes: cv-page
 ---
 
-{% include base_path %}
-
 ## 🎓 Education
+
 * M.S. in Electrical Engineering and Computer Science, [Kanazawa University](https://www.kanazawa-u.ac.jp/){: .text-link target="_blank" rel="noopener noreferrer" }, 2024
 * M.S. in Computer Science, [National Chengchi University](https://www.nccu.edu.tw/index.php?Lang=en){: .text-link target="_blank" rel="noopener noreferrer" }, 2023
 * B.S. in Information Management, [Chang Gung University](https://www.cgu.edu.tw/en){: .text-link target="_blank" rel="noopener noreferrer" }, 2020
@@ -53,4 +52,4 @@ redirect_from:
   - Social Media Lead, Calligraphy Club, Chang Gung University (2017-2019)
     - Managed cross-platform promotion and helped increase annual exhibition participation.
 
-[Download my CV]({{ site.baseurl }}/files/ChengYi_CV.pdf){:target="_blank" .text-link}
+[Download CV (PDF, updated Feb 2026)]({{ site.baseurl }}/files/ChengYi_CV.pdf){:target="_blank" rel="noopener noreferrer" .btn .btn--primary}

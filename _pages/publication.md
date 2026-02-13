@@ -1,15 +1,13 @@
 ---
 layout: archive
-# title: "Publications"
+title: "Publications"
 permalink: /publications/
 author_profile: true
+show_title: false
 classes: publications-page
 ---
 
-{% include base_path %}
-
-📚 Publications
-======
+## 📚 Publications
 
 See [Google Scholar](https://scholar.google.com/citations?user=rChf7L4AAAAJ){: .text-link } for additional details.  
 `*` denotes equal contribution
