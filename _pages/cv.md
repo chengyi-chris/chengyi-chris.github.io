@@ -9,14 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-🎓 Education
-======
-* M.S. in EECS, Kanazawa University, 2024
-* M.S. in CS, National Chengchi University, 2023
-* B.S. in IM, Chang Gung University, 2020
+## 🎓 Education
+* M.S. in Electrical Engineering and Computer Science, [Kanazawa University](https://www.kanazawa-u.ac.jp/){: .text-link target="_blank" rel="noopener noreferrer" }, 2024
+* M.S. in Computer Science, [National Chengchi University](https://www.nccu.edu.tw/index.php?Lang=en){: .text-link target="_blank" rel="noopener noreferrer" }, 2023
+* B.S. in Information Management, [Chang Gung University](https://www.cgu.edu.tw/en){: .text-link target="_blank" rel="noopener noreferrer" }, 2020
   
-Work Experience
-======
+## 💼 Work Experience
   - Research Assistant, CITI, Academia Sinica, Taiwan (Jul, 2025 - Present)
     - Advised by Prof. Jun-Cheng Chen (collab with Chun-Shien Lu)
     - Copyright Protection on Generative Models
@@ -33,57 +31,26 @@ Work Experience
     - Design data collection and monitoring by using ELK
     - Implement features for data portal in our team (Python) 
   
-Honors and Awards
-======
+## 🏆 Honors and Awards
   - Graduate Student Research Award, National Chengchi University (2022)
-  - Dean's List, Chang Gung University (2020) 
+  - Dean's List, Chang Gung University (2020)
   
-Skills
-======
-  - Programming Language: Python, Java, R, C++, Latex
-  - Computer Vision & ML/DL: Image Classification, Vision Transformer, Watermarking
-  - Others: Docker, Pytorch, OpenCV, Charm-Crypto, PBC
+## 🛠️ Skills
+  - Programming: Python, C++, Java, R, LaTeX
+  - Machine Learning: PyTorch, TensorFlow, scikit-learn, OpenCV
+  - Databases: PostgreSQL, MongoDB, Redis, Neo4j
+  - Engineering Tools: Docker, Git, Linux, ELK Stack
+  - Experiment Tools: Weights & Biases (W&B)
   
-<!-- 📝 Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-   -->
-<!-- 💬 Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-   -->
-<!-- Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-   -->
 
-<!-- Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
+## 🤝 Leadership & Service
+  - Photographic Team Member, Java Taiwan User Group (JCConf) (2017-2025)
+    - Supported annual community conference media operations across multiple years.
 
-Extracurricular Activities
-======
-  - Calligraphy Club in Chang Gung University (2017-2019)
-    - Social Media Lead, Club Member
-    - Cross-platform Social Media Management
-    - Increase the number of students in our annual exhibition
+  - Photographic Team Member, COSCUP (2019, 2021, 2024)
+    - Contributed event documentation for a large open-source community conference.
 
-  - Student Association in Chang Gung University (2016-2017)
-    - Club Member
-    - Hosted celebrity speeches, with more than 900 students participating.
-    - Annual Wind Festival in our college
-
-Volunteer Experience
-======
-  - Community of Java Taiwan User Group (2017-2025)
-    - Photographic Team in Annual Community Conference (JCConf)
-  - Conference for Open Source Coders, Users & Promoters (COSCUP)
-    - Photographic Team in Annual Community Conference (2019, 2021, 2024)
+  - Social Media Lead, Calligraphy Club, Chang Gung University (2017-2019)
+    - Managed cross-platform promotion and helped increase annual exhibition participation.
 
 [Download my CV]({{ site.baseurl }}/files/ChengYi_CV.pdf){:target="_blank" .text-link}
